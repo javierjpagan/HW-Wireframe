@@ -1,0 +1,60 @@
+* 
+body {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
+  margin: auto;
+  line-height: 34px;
+
+}
+
+header,
+nav,
+section,
+aside,
+footer {
+
+  background: #ebebeb;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+section {
+  width: 495px;
+  float: left;
+  display: block;
+  width: 495px;
+  height: 267px;
+}
+
+article {
+  color: #ebebeb;
+  background: #777;
+  padding: 10px;
+}
+
+aside {
+  width: 40%;
+  float: right;
+  display: block;
+  height: 267px;
+  overflow: hidden;
+}
+
+.clear {
+  clear: both;
+}
+
+h1,
+ p {
+  color: #777;
+  background: #ebebeb;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  width: 90%;
+}
